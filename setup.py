@@ -4,7 +4,7 @@
 from setuptools import find_packages, setup
 
 REQUIRED = [
-    'requests==2.19.1',
+    'requests==2.20.0',
     'schedule==0.6.0'
 ]
 
